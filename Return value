@@ -1,5 +1,7 @@
+def tester(givenstring="Too short"):
     
-
+    return givenstring
+    i = 0 
 def main():
     
     while True:
